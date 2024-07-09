@@ -114,7 +114,7 @@ class NotepadApp extends JFrame {
 		zoomMenuItem = new JMenuItem("Zoom");
         zoomMenuItem.setFont(new Font("", Font.PLAIN, 18));
 
-        statusbarMenuItem = new JMenuItem("Cut");
+        statusbarMenuItem = new JMenuItem("Status bar");
         statusbarMenuItem.setFont(new Font("", Font.PLAIN, 18));
 
 		viewMenu.add(zoomMenuItem);
